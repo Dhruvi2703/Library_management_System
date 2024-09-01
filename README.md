@@ -36,7 +36,8 @@ Choose an option:
 
 
 * Main Menu:  the main menu is displayed. The user can select various operations from this menu, such as adding a book, View avilable books,borrow book ,return book or exiting the system. The user inputs their choice by entering a numeric value.
-           ![Screenshot (504)](https://github.com/user-attachments/assets/8638f156-c516-4275-9603-cf12158e849e)
+  
+  ![Screenshot (504)](https://github.com/user-attachments/assets/8638f156-c516-4275-9603-cf12158e849e)
 
 1) Add Book Operation: If the user chooses to add a book, the UI provides a form-like interface to input the book's details, including title, author,ISBN and publication. Once entered, the book is added to the library.
    
